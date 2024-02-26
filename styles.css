@@ -13,7 +13,7 @@ body {
 
 h1 {
   font-size: 8vw;
-  margin: 30px;
+  margin: 30px 60px;
   padding: 10px 10px;
   text-align: center;
   border-radius: 15px;
@@ -24,7 +24,7 @@ h1 {
 
 .palindrome-container {
   background-color: var(--davys-gray);
-  margin: 20px 30px;
+  margin: 20px 60px;
   padding: 15px 15px;
   border-radius: 15px;
 }
